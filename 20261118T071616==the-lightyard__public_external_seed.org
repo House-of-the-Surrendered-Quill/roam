@@ -1,19 +1,19 @@
 :PROPERTIES:
 :ID:       c91ef623-67b7-4690-bd11-95f9c6536be1
 :END:
-#+TITLE: The Yard
+#+TITLE: The Lightyard
 #+date:       [2026-11-18 水 07:16]
 #+PUBLIC:     t
 #+STATUS:     SEED
 
 * Public hulls
 
-Not a garden. A yard. Hulls laid, then sent.
+Not a garden. A shipyard for lightvessels. Hulls laid, then sent.
 
 Private operating copies stay in-house.
 Public laws launch from here.
 
-- [[id:6fc04a52-bb70-4c0b-8974-d95ce519c8bd][The House]] — lightship
+- [[id:6fc04a52-bb70-4c0b-8974-d95ce519c8bd][The House]] — cybernetic lightship
 - [[id:5485f1c5-0d3f-48e2-8b15-99b44c7fa075][Lightship of Theseus]] — the book / the method
 - [[id:6fccf2ce-5d6c-44a0-9627-3d42d32ffa88][Cybernetics]] — domain 0, held references
 - [[id:7dffb8c1-e6f6-4f73-8d0b-8336674791f2][n*(t) = 0 ∀ t]] — regulatory setpoint. Unix stem =nstar-inbox-0=. LAW.
