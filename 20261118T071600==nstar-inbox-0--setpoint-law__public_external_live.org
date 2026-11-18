@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       7dffb8c1-e6f6-4f73-8d0b-8336674791f2
+:END:
+#+TITLE: n*(t) = 0 ∀ t
+#+date:       [2026-11-18 水 07:16]
+#+identifier: 20261118T071600
+#+signature:  nstar-inbox-0
+#+STATUS:     LAW
+#+PUBLIC:     t
+#+SEAT:       CYBERNETICS
+#+LENS:       Integrity
+
+* LAW nstar-inbox-0
+
+Unix stem: =nstar-inbox-0=
+(No glob. No ∀ in a filename. The star lives in the law, not in the path.)
+
+Process variable: *n* = unattended inbox occupancy.
+Reference: *n** .
+Kind: *regulatory setpoint* (held), not a one-shot clear.
+
+#+begin_src
+n*(t) = 0  ∀ t
+#+end_src
+
+Inbox Zero is not "empty by Friday."
+It is empty *at every t*. A regulator, not a chore.
+
+A message routed is a correction.
+A *source* changed so that kind of mail never lands unattended again
+is the cure. State-space transition, not sorting.
+
+Example of the move (no private addresses):
+newsletter-in-inbox  >>  subscription I can kill.
+
+Seat trains the device.
+Quill bakes the spec.
+The third thing is sending the artifact out.
+
+This note is *law-only*.
+Formal device specification and mathematical proof: later.
+Private operating copy stays in the House.
+This page is the public bone.
+
+Status ladder (replaces BLOOM / BLOSSOM for devices):
+SEED → LAW → SPEC → PROOF → LIVE
+
+This page: *LAW*.

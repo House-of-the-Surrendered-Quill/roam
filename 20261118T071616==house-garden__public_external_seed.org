@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c91ef623-67b7-4690-bd11-95f9c6536be1
+:END:
+#+TITLE: House Garden
+#+date:       [2026-11-18 水 07:16]
+#+PUBLIC:     t
+#+STATUS:     SEED
+
+* Public artifacts
+
+Not orchid.quest. Not petals as the product.
+Devices. Setpoints. Laws you can filename.
+
+- [[id:7dffb8c1-e6f6-4f73-8d0b-8336674791f2][n*(t) = 0 ∀ t]] — regulatory setpoint. Unix stem =nstar-inbox-0=. LAW.
+
+Seat trains. Quill bakes. Third thing: send.
+
+Rapid. Iterate. This index will grow.
+Status: SEED → LAW → SPEC → PROOF → LIVE.

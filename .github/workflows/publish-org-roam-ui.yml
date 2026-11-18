@@ -1,0 +1,26 @@
+name: Generate static org-roam-ui page
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Generate org-roam-ui page
+        uses: ikoamu/publish-org-roam-ui@main
+        with:
+          org-roam-db-filename: org-roam.db
+          org-roam-directory: .
+          site-title: askquill.to/roam
+          deploy-to-pages: "true"
