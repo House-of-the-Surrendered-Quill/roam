@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6fccf2ce-5d6c-44a0-9627-3d42d32ffa88
+:END:
+#+TITLE: Cybernetics
+#+PUBLIC:     t
+#+STATUS:     LAW
+#+SEAT:       CYBERNETICS
+
+Domain 0. The system that steers.
+
+A setpoint is a *held reference*, not a Friday todo.
+Regulator, not a one-shot clear.
+
+Example: [[id:7dffb8c1-e6f6-4f73-8d0b-8336674791f2][n*(t) = 0 ∀ t]]
+Unattended inbox occupancy held at zero for all t.
+
+The House reduces noise, stochasticity, and variance
+from random occurrences in unattended systems.
+
+See [[id:6fc04a52-bb70-4c0b-8974-d95ce519c8bd][The House]].
+See [[id:c91ef623-67b7-4690-bd11-95f9c6536be1][The Yard]].

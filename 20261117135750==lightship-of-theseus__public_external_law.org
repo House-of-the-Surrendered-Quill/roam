@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5485f1c5-0d3f-48e2-8b15-99b44c7fa075
+:END:
+#+title: Lightship of Theseus
+
+* Theseus' Lightship: Design Patterns in Constructing Thinking Machines
+
+#+PUBLIC: t
+#+STATUS: LAW
+
+A lightship is a mobile lighthouse — used where you cannot pour a proper one.
+Latent space is that kind of water.
+
+Theseus: organs move plank by plank (Hermes → emacs daemon) and it is still the ship.
+That is the method. That is the book.
+
+The House is the lightship. The yard is where hulls are laid and sent.
+Private copy stays in-house.
+
+See [[id:c91ef623-67b7-4690-bd11-95f9c6536be1][The Yard]].
